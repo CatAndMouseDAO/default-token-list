@@ -150,5 +150,21 @@
     "symbol": "HT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ht.jpg"
+  },
+    {
+    "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+    "chainId": 43114,
+    "name": "Staked Spell Tokens",
+    "symbol": "sSPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sspell.jpg"
+  },
+    {
+    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "chainId": 43114,
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/spell.jpg"
   }
 ]
