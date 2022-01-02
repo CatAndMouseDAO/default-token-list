@@ -302,5 +302,14 @@
 		"name": "OpenSwap",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png"
-	}
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0xbbd83ef0c9d347c85e60f1b5d2c58796dbe1ba0d",
+		"symbol": "CHEEZ",
+		"name": "Cheese",
+		"decimals": 9,
+		"logoURI": "https://raw.githubusercontent.com/CatAndMouseDAO/branding/master/cheeselogo128.png"
+	},
+
 ]
