@@ -305,7 +305,7 @@
 	},
 	{
 		"chainId": 1666600000,
-		"address": "0xbbd83ef0c9d347c85e60f1b5d2c58796dbe1ba0d",
+		"address": "0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d",
 		"symbol": "CHEEZ",
 		"name": "Cheese",
 		"decimals": 9,
